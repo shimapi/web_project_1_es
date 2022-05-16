@@ -417,3 +417,7 @@ template {
 [hidden] {
     display: none;
 }
+p{
+    margin: 0;
+    padding: 0;
+}
