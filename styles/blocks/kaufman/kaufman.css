@@ -1,0 +1,26 @@
+
+.kaufman{
+  color: #fff;
+  background-color: #1F1F1F;
+  padding: 90px 0;
+  position: relative;
+  overflow: hidden;
+}
+
+.section-title__theme_dark{position: inherit;}
+.section-subtitle__theme_dark{position: inherit;}
+.table__container__theme_dark{position: inherit;}
+
+.table__cell_theme_dark{
+  width: 200px;
+  margin-top: 80px;
+  padding: 0;
+}
+
+.kaufman__triangle{
+  position: absolute;
+  right: -124px;
+  top: 0;
+  width: 660px;
+  height: 636px;
+}
