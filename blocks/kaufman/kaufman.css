@@ -5,10 +5,9 @@
   position: relative;
   overflow: hidden;
 }
-
 .section-title_theme_dark{position: inherit;}
 .section-subtitle_theme_dark{position: inherit;}
-.table__container_theme_dark{position: inherit;}
+.table_theme-dark{position: inherit;}
 
 .table__cell-dark{
   width: 200px;

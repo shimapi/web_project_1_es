@@ -16,18 +16,18 @@
   position: relative;
   display: flex;
 }
-.footer__column_content-about{
+.footer__column-about{
   width: 70%;
 }
-.footer__column_content-social{
+.footer__column-social{
   width: 30%;
 }
-.footer__column_content-copyright{
+.footer__column-copyright{
   display: flex;
   position: relative;
   width: 210px;
 }
-.logo__place-footer{
+.logo_place-footer{
   width: 183px;
   height: 35px;
 }
