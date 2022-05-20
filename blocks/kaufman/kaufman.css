@@ -1,4 +1,3 @@
-
 .kaufman{
   color: #fff;
   background-color: #1F1F1F;
@@ -11,10 +10,11 @@
 .section-subtitle_theme_dark{position: inherit;}
 .table__container_theme_dark{position: inherit;}
 
-.table__cell_theme_dark{
+.table__cell-dark{
   width: 200px;
   margin-top: 80px;
   padding: 0;
+  list-style: none;
 }
 
 .kaufman__triangle{
