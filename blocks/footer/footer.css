@@ -16,17 +16,21 @@
   position: relative;
   display: flex;
 }
-.footer__column_content_about{
+.footer__column_content-about{
   width: 70%;
 }
-.footer__column_content_social{
+.footer__column_content-social{
   width: 30%;
 }
-.logo__place_footer img{
+.footer__column_content-copyright{
+  display: flex;
+  position: relative;
+  width: 210px;
+}
+.logo__place-footer{
   width: 183px;
   height: 35px;
 }
-
 .footer__author{
   position: absolute;
   padding: 18px 0;

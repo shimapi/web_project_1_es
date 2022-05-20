@@ -8,7 +8,7 @@
   display: flex;
   overflow: hidden;
 }
-.logo__place_header{
+.logo__place-header{
   z-index: 1;
   position: absolute;
   top: 30px;
@@ -50,10 +50,6 @@
   position: absolute;
   bottom:0;
   right: 0;
-}
-.header__main-illustration__img{
-  width: 756px;
-  height: 608px;
 }
 .header__link a{
   color: #2F80ED;
