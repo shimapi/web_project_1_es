@@ -1,0 +1,13 @@
+.resources{
+  width: 1100px;
+  margin: 0 auto;
+  padding: 100px 0 217px;
+}
+.resources__logo-zone{
+  padding: 80px 0 0;
+  display: flex;
+}
+.resources__logo img{
+  width: 270px;
+  height: 38px;
+}

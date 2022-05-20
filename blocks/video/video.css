@@ -1,0 +1,10 @@
+.iframes{
+  width: 1050px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 50px;
+}
+.iframe{
+  justify-content: space-between;
+}

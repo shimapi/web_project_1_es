@@ -6,6 +6,7 @@
   position: relative;
   background-color: #F2F2F2;
   display: flex;
+  overflow: hidden;
 }
 .logo__place_header{
   z-index: 1;
@@ -41,6 +42,7 @@
   right: 0;
   position: absolute;
   z-index: 0;
+  transform: rotate(-15deg);
 }
 .header__main-illustration{
   width: 756px;
